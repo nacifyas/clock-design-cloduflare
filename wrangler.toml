@@ -1,4 +1,4 @@
 name = "clock-design"
-# main = "src/index.js"
-main = "src/index.html"
 compatibility_date = "2022-09-26"
+
+main = "src/index.js"

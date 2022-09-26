@@ -2,6 +2,7 @@
   "name": "clock-design",
   "version": "0.0.0",
   "devDependencies": {
+    "html-loader": "^4.2.0",
     "wrangler": "2.1.6"
   },
   "private": true,
